@@ -1,0 +1,23 @@
+
+™
+zapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/model/datasources/remote/retrofit/RetrofitHelper.java,0/3/039d73aabf0d129ee3a2d69d1734b4e1c49e35be
+®
+xapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/model/datasources/remote/retrofit/UrlConstants.java,f/1/f1df701750f0c4bf9e58880c0361e86a20f91759
+∑
+Üapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/model/datasources/remote/retrofit/apiservices/ResultsService.java,4/3/4336030b150c20be623e414b0db925950ab1c8ed
+£
+sapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/view/activities/mainactivity/MainActivity.java,e/1/e19c76064a79253a548eb01a63f6a488c4bccc42
+´
+{app/src/main/java/com/example/williamsjonathanandroidcodingchallenge/view/activities/mainactivity/MainActivityContract.java,4/a/4a479a28a08d5f7c414c6ce34bfe28fd61390a11
+¨
+|app/src/main/java/com/example/williamsjonathanandroidcodingchallenge/view/activities/mainactivity/MainActivityPresenter.java,7/0/705ba9bbf8b43005b6c908759a5a2d6e1b69ebac
+ù
+mapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/view/adapters/MainActivityRvAdapter.java,7/c/7cb88f436e3da62456f7ac4d61923dda019bed1b
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+ç
+]app/src/main/java/com/example/williamsjonathanandroidcodingchallenge/model/results/Books.java,2/7/27ec3d939df4156be07898ce0d3f277ee8fe7faf
+ë
+aapp/src/main/java/com/example/williamsjonathanandroidcodingchallenge/model/results/BooksList.java,6/5/6563989334dbcc4dc222fd282713c357881becde
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
